@@ -4,6 +4,7 @@
 
 - `DeadFishSwimming.gif`: [Beal, et al. Passive propulsion in vortex wakes. Journal of Fluid Mechanics][beal]
 - `hilbert_curve.png`: http://www.texample.net/tikz/examples/hilbert-curve/
+- `hubble_ultra_deep_field.jpg`: https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez.jpg
 - `la_cathedral_engloutie.m4a`: [Debussy's 1913 piano roll](https://www.youtube.com/watch?v=rfSBddhFvyA)
 - `meaning_of_the_flag.png`: Tumblr user [tigerrknight][tigerrknight]
 
