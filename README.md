@@ -3,6 +3,7 @@
 ## Sources
 
 - `DeadFishSwimming.gif`: [Beal, et al. Passive propulsion in vortex wakes. Journal of Fluid Mechanics][beal]
+- `four_seasons.jpg`: https://commons.wikimedia.org/wiki/File:Four_Seasons_by_Alfons_Mucha,_circa_1895.jpg
 - `hilbert_curve.png`: http://www.texample.net/tikz/examples/hilbert-curve/
 - `harmony.png`: own work
 - `hubble_ultra_deep_field.jpg`: https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez.jpg
