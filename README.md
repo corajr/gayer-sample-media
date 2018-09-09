@@ -10,6 +10,7 @@
 - `is_it_a_crime.png`: Sade, "Is It A Crime?" (1984)
 - `king_wen.png`: https://commons.wikimedia.org/wiki/File:King_Wen_(I_Ching).png
 - `la_cathedral_engloutie.m4a`: [Debussy's 1913 piano roll](https://www.youtube.com/watch?v=rfSBddhFvyA)
+- `les_tres_riches_heures.jpg`: https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_f%C3%A9vrier.jpg
 - `meaning_of_the_flag.png`: Tumblr user [tigerrknight][tigerrknight]
 - `suleiman.jpg`: https://www.metmuseum.org/art/collection/search/449533
 
