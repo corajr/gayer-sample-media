@@ -3,8 +3,10 @@
 ## Sources
 
 - `DeadFishSwimming.gif`: [Beal, et al. Passive propulsion in vortex wakes. Journal of Fluid Mechanics][beal]
+- `equation.ogg`: Sample of Aphex Twin's "[Equation]"
 - `four_seasons.jpg`: https://commons.wikimedia.org/wiki/File:Four_Seasons_by_Alfons_Mucha,_circa_1895.jpg
 - `hilbert_curve.png`: http://www.texample.net/tikz/examples/hilbert-curve/
+- `cyber_winnie.png`: own work
 - `harmony.png`: own work
 - `hubble_ultra_deep_field.jpg`: https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez.jpg
 - `is_it_a_crime.png`: Sade, "Is It A Crime?" (1984)
