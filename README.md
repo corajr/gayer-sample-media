@@ -6,9 +6,11 @@
 - `equation.ogg`: Sample of Aphex Twin's "[Equation]"
 - `four_seasons.jpg`: https://commons.wikimedia.org/wiki/File:Four_Seasons_by_Alfons_Mucha,_circa_1895.jpg
 - `hilbert_curve.png`: http://www.texample.net/tikz/examples/hilbert-curve/
+- `city_lights_2012.jpg`: https://www.flickr.com/photos/gsfc/8246931247
 - `cyber_winnie.png`: own work
-- `harmony.png`: own work
+- `fermi_lat_5year_gamma.png`: https://svs.gsfc.nasa.gov/11342
 - `hubble_ultra_deep_field.jpg`: https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez.jpg
+- `hubble_ultra_deep_field_cleaned.jpg`: https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez_edit1.jpg
 - `is_it_a_crime.png`: Sade, "Is It A Crime?" (1984)
 - `king_wen.png`: https://commons.wikimedia.org/wiki/File:King_Wen_(I_Ching).png
 - `la_cathedral_engloutie.m4a`: [Debussy's 1913 piano roll](https://www.youtube.com/watch?v=rfSBddhFvyA)
